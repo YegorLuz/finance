@@ -6,7 +6,7 @@ const Selector = (props: IProps) => (
         value={props.value}
         onChange={props.onChange}
     >
-        {props.defaultValue ? <option value='-1' key={'default'}>--- Любой ---</option> : null}
+        {props.defaultValue ? <option value='-1' key={'default'}>--- Any ---</option> : null}
         {props.data.map((item: string, index: number) => <option value={index} key={item}>{item}</option>)}
     </select>
 );

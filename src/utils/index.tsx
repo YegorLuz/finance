@@ -1,7 +1,7 @@
 import * as moment from 'moment';
 import { IIMoney, IIMoneyRecord } from '../models/data/immutable';
 
-moment.updateLocale('ru', {
+moment.updateLocale('en', {
     week : {
         dow : 1,
         doy : 0
@@ -13,5 +13,5 @@ export function calcTotalOutlay (money: IIMoney) {
 }
 
 export function formatPrice (price: number) {
-    return `${price.toFixed(2)} грн`;
+    return `${price.toFixed(2)} UAH`;
 }

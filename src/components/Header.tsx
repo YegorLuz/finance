@@ -6,7 +6,7 @@ class Header extends React.Component {
         return (
             <header id='header'>
                 <Container>
-                    <div className='title'>Система учета затрат</div>
+                    <div className='title'>Cost accounting system</div>
                 </Container>
             </header>
         );

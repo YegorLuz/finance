@@ -47,16 +47,17 @@ class Table extends React.Component<IProps> {
 
             if ((!hideEmptyDays || moneyRecord.size) && (selectedWeekDay < 0 || weekday === selectedWeekDay)) {
                 const rowspan = !weekday ? daysLeft < 7 ? daysLeft : 7 : (!index ? 7 - weekday : 0);
+                const rowClassName = classNames(
+                    { 'week-end': !((weekday + 1) % 7) },
+                    { 'gray-row': !!(acc.length % 2) },
+                    { empty: !moneyRecord.size },
+                    { 'today': moment().date() === currentDate.date() }
+                );
 
                 acc.push(
                     <Row
                         key={`${dateNumber}_${weekday}`}
-                        className={classNames(
-                            { 'week-end': !((weekday + 1) % 7) },
-                            { 'gray-row': !!(acc.length % 2) },
-                            { empty: !moneyRecord.size },
-                            { 'today': moment().date() === currentDate.date() }
-                        )}
+                        className={rowClassName}
                     >
                         <Cell>
                             {dateNumber}

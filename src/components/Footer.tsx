@@ -6,7 +6,7 @@ class Footer extends React.Component {
         return (
             <footer id='footer'>
                 <Container>
-                    <div className='title'>Система учета затрат</div>
+                    <div className='title'>Cost accounting system</div>
                 </Container>
             </footer>
         );

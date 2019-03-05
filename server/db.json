@@ -2,152 +2,152 @@
   "money": [
     {
       "amount": "1000",
-      "forWhat": "на подарок Ане",
+      "forWhat": "gift to wife",
       "date": "2019-02-25",
       "id": 1
     },
     {
       "id": 2,
       "amount": "1273",
-      "forWhat": "на кредитку (700 - планшет, 560 - долг, 13 - комиссия)",
+      "forWhat": "credit card repayment",
       "date": "2019-02-25"
     },
     {
       "id": 3,
       "amount": "432",
-      "forWhat": "Новус (молочка, печеньки, угощения)",
+      "forWhat": "Shopping",
       "date": "2019-02-25"
     },
     {
       "id": 4,
       "amount": "80",
-      "forWhat": "пополнение моб счета Ане",
+      "forWhat": "recharge mobile",
       "date": "2019-02-25"
     },
     {
       "id": 5,
       "amount": "200",
-      "forWhat": "в сад (фото и спектакль)",
+      "forWhat": "to Kindergarten",
       "date": "2019-02-26"
     },
     {
       "id": 6,
       "amount": "46",
-      "forWhat": "сигареты",
+      "forWhat": "cigarettes",
       "date": "2019-02-26"
     },
     {
       "amount": "599.80",
-      "forWhat": "Окко (20 литров бензина)",
+      "forWhat": "Gas station",
       "date": "2019-02-27",
       "id": 7
     },
     {
       "date": "2019-02-27",
       "amount": "55",
-      "forWhat": "Кофе и сигареты",
+      "forWhat": "cigarettes",
       "id": 8
     },
     {
       "amount": "48",
-      "forWhat": "Сигареты (Копейка)",
+      "forWhat": "cigarettes",
       "date": "2019-02-27",
       "id": 9
     },
     {
       "amount": "250",
-      "forWhat": "На карту Ане (на такси)",
+      "forWhat": "for wife",
       "date": "2019-02-28",
       "id": 10
     },
     {
       "amount": "83",
-      "forWhat": "Аптека (Егор)",
+      "forWhat": "pharmacy",
       "date": "2019-02-28",
       "id": 11
     },
     {
       "amount": "352",
-      "forWhat": "бепантен",
+      "forWhat": "pharmacy",
       "date": "2019-03-01",
       "id": 12
     },
     {
       "amount": "507",
-      "forWhat": "Авто сервис (диагностика ходовой, компьютерная диагностика)",
+      "forWhat": "Auto service",
       "date": "2019-03-01",
       "id": 13
     },
     {
       "amount": "150",
-      "forWhat": "Трион",
+      "forWhat": "internet",
       "date": "2019-03-02",
       "id": 14
     },
     {
       "amount": "603.30",
-      "forWhat": "АТБ (продукты) + Куме шампанское",
+      "forWhat": "shopping",
       "date": "2019-03-02",
       "id": 15
     },
     {
       "amount": "80",
-      "forWhat": "Сладкоежка (Мафины + кукурузные палки)",
+      "forWhat": "shopping",
       "date": "2019-03-02",
       "id": 16
     },
     {
       "amount": "200",
-      "forWhat": "Куме подарок",
+      "forWhat": "gift to godmother",
       "date": "2019-03-02",
       "id": 17
     },
     {
       "amount": "600",
-      "forWhat": "Рынок (рыба (150), сигареты (48), мясо (?), овощи (?)), памперсы (403))",
+      "forWhat": "shopping",
       "date": "2019-03-03",
       "id": 18
     },
     {
       "amount": "10",
-      "forWhat": "хлеб",
+      "forWhat": "bread",
       "date": "2019-03-03",
       "id": 19
     },
     {
-      "amount": "0.00",
-      "forWhat": "Пазлы",
+      "amount": "100",
+      "forWhat": "toy for kid",
       "date": "2019-03-03",
       "id": 20
     },
     {
       "amount": "200",
-      "forWhat": "Башня",
+      "forWhat": "Cafe",
       "date": "2019-03-03",
       "id": 21
     },
     {
       "amount": "23",
-      "forWhat": "Меч",
+      "forWhat": "toy for kid",
       "date": "2019-03-04",
       "id": 22
     },
     {
       "amount": "48",
-      "forWhat": "Сигареты",
+      "forWhat": "cigarettes",
       "date": "2019-03-04",
       "id": 23
     },
     {
       "amount": "320",
-      "forWhat": "Заправка Shell (Газ)",
+      "forWhat": "Gas station",
       "date": "2019-03-04",
       "id": 24
     },
     {
-      "amount": "57.50",
-      "forWhat": "Сигареты и кофе",
       "date": "2019-03-05",
+      "amount": "57.50",
+      "forWhat": "cigarettes and koffee",
       "id": 25
     }
   ]

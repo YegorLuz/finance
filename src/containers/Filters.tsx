@@ -16,7 +16,7 @@ class Filters extends React.Component<IProps> {
                 <Filter onClick={this.props.toggleEmptyDays}>
                     <div className='custom-checkbox'>
                         <div className={classNames('checkbox', { '-checked': hideEmptyDays })} />
-                        <div className='label'>Пустые спрятаны</div>
+                        <div className='label'>Empty is hidden</div>
                     </div>
                 </Filter>
                 <Filter>
